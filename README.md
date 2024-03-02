@@ -1,3 +1,3 @@
 # Atm-Management-
 <br>
-Author Shubham Rahile
+Author: Shubham Rahile
